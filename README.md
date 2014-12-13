@@ -1,6 +1,6 @@
 sudo apt-get install git
-git config --global user.name "vsree2204"
-git config --global user.email "sreedhar2204@gmail.com"
+git config --global user.name "username"
+git config --global user.email "Email
 mkdir test
 cd test/
 git init
